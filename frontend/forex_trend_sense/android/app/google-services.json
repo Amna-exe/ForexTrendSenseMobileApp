@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127749492117",
+    "project_id": "forextrendsense2",
+    "storage_bucket": "forextrendsense2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127749492117:android:68714a885e433cb20c7a9c",
+        "android_client_info": {
+          "package_name": "com.example.forex_trend_sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaixhR-UdIuDR7cgBAECuVLMigFbhjxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

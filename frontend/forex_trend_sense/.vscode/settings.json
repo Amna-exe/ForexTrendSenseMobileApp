@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "D:/v/flutter_projects/forex_trend_sense/linux",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
